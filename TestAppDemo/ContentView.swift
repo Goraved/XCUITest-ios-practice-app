@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  TestPracticeApp
 //
-//  Created by Roman Diia on 26.04.2025.
+//  Created by Roman Pobotin on 26.04.2025.
 //
 
 import SwiftUI
